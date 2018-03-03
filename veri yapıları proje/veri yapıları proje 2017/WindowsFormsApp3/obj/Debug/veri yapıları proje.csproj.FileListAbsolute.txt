@@ -1,0 +1,9 @@
+C:\Users\taner\Desktop\veri yapıları proje 2017\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\taner\Desktop\veri yapıları proje 2017\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\taner\Desktop\veri yapıları proje 2017\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\taner\Desktop\veri yapıları proje 2017\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\taner\Desktop\veri yapıları proje 2017\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\taner\Desktop\veri yapıları proje 2017\WindowsFormsApp3\obj\Debug\veri yapıları proje.csprojResolveAssemblyReference.cache
+C:\Users\taner\Desktop\veri yapıları proje 2017\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\taner\Desktop\veri yapıları proje 2017\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\taner\Desktop\veri yapıları proje 2017\WindowsFormsApp3\obj\Debug\veri yapıları proje.csproj.GenerateResource.Cache
